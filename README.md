@@ -10,7 +10,7 @@
 ## :pencil: *Reposetories:* 
 *Frontend - GitHub: https://github.com/barakamram/Make-An-Appointment*
 
-*Backend - GitHub: https://github.com/barakamram/MakeMent-Backend*
+*Backend - GitHub: https://github.com/barakamram/Make-An-Appointment-Backend*
 
 ## :pen: *Author of this project:* 
 *Barak Amram - GitHub: https://github.com/barakamram*
