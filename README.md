@@ -1,1 +1,2 @@
-# Make-An-Appointment
+# MakeAnAppointment
+Make An Appointment App
